@@ -16,3 +16,9 @@
 # Instructions
 
 Throw them in a mixer. Bake for miutes at 350. Eat.
+
+## notes from making them in 2012
+If you don't add enough chocolate chips they are not tasty
+
+## notes from making them in 2022
+Butter is delicious so is sugar
