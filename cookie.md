@@ -22,3 +22,9 @@ If you don't add enough chocolate chips they are not tasty
 
 ## notes from making them in 2022
 Butter is delicious so is sugar
+
+# heading 1
+## heading2
+### heading 3
+
+<h1>Hi</h1>
