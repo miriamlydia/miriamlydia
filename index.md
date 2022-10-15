@@ -4,6 +4,7 @@
 ## Brunch
 - [Party Frittata](partyfrittata.md)
 
+## All Recipes
 
 {% assign doclist = site.pages | sort: 'url'  %}
 <ul>
