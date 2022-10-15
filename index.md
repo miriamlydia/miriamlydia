@@ -1,2 +1,2 @@
-* [Cookie](cookie.md)
-* [Party Frittata](partyfrittata.md)
+- [Cookie](cookie.md)
+- [Party Frittata](partyfrittata.md)
