@@ -1,5 +1,6 @@
 # Party Fritatta
 18 eggs, served 10 people
+
 You could really do this with any vegetables, but for the most part you'll want to pre-cook them, partly because they don't spend enough time in the oven to cook properly, partly because even things that cook quickly, like spinach, have a lot of moisture. Also you could easily add ham, sausage, bacon etc.
 
 
