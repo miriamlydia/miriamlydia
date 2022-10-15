@@ -1,1 +1,2 @@
-[Cookies](cookie.md)
+[Cookie](cookie.md)
+[Party Frittata](partyfrittata.md)
