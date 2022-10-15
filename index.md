@@ -1,1 +1,1 @@
-[Cookies](cookies.md)
+[Cookies](cookie.md)
